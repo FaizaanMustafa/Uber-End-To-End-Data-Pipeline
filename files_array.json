@@ -1,0 +1,21 @@
+
+[
+	{
+		"file_name":"map_cities"
+	},
+	{
+		"file_name":"map_payment_methods"
+	},
+	{
+		"file_name":"map_cancellation_reasons"
+	},
+	{
+		"file_name":"map_ride_statuses"
+	},
+	{
+		"file_name":"map_vehicle_makes"
+	},
+	{
+		"file_name":"map_vehicle_types"
+	}
+]
