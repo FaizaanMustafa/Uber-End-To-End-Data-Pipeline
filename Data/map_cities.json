@@ -1,10 +1,3 @@
 
 
-[
-  {'city_id': 1,
-  'city': 'New York',
-  'state': 'NY',
-  'region': 'Northeast',
-  'updated_at': '2026-03-25T04:04:37.116792'
-  }, 
-  {'city_id': 2, 'city': 'Los Angelas', 'state': 'CA', 'region': 'West', 'updated_at': '2026-03-25T04:04:37.116812'}, {'city_id': 3, 'city': 'Chicago', 'state': 'IL', 'region': 'Midwest', 'updated_at': '2026-03-25T04:04:37.116818'}, {'city_id': 4, 'city': 'Houston', 'state': 'TX', 'region': 'South', 'updated_at': '2026-03-25T04:04:37.116823'}, {'city_id': 5, 'city': 'Phoenix', 'state': 'AZ', 'region': 'Southwest', 'updated_at': '2026-03-25T04:04:37.116827'}, {'city_id': 6, 'city': 'Philadelphia', 'state': 'PA', 'region': 'Northeast', 'updated_at': '2026-03-25T04:04:37.116910'}, {'city_id': 7, 'city': 'San Antonio', 'state': 'TX', 'region': 'South', 'updated_at': '2026-03-25T04:04:37.116920'}, {'city_id': 8, 'city': 'San Diego', 'state': 'CA', 'region': 'West', 'updated_at': '2026-03-25T04:04:37.116925'}, {'city_id': 9, 'city': 'Dallas', 'state': 'TX', 'region': 'South', 'updated_at': '2026-03-25T04:04:37.116929'}, {'city_id': 10, 'city': 'San Jose', 'state': 'CA', 'region': 'West', 'updated_at': '2026-03-25T04:04:37.116933'}]
+[{'city_id': 1,'city': 'New York','state': 'NY','region': 'Northeast','updated_at': '2026-03-25T04:04:37.116792'}, {'city_id': 2, 'city': 'Los Angelas', 'state': 'CA', 'region': 'West', 'updated_at': '2026-03-25T04:04:37.116812'}, {'city_id': 3, 'city': 'Chicago', 'state': 'IL', 'region': 'Midwest', 'updated_at': '2026-03-25T04:04:37.116818'}, {'city_id': 4, 'city': 'Houston', 'state': 'TX', 'region': 'South', 'updated_at': '2026-03-25T04:04:37.116823'}, {'city_id': 5, 'city': 'Phoenix', 'state': 'AZ', 'region': 'Southwest', 'updated_at': '2026-03-25T04:04:37.116827'}, {'city_id': 6, 'city': 'Philadelphia', 'state': 'PA', 'region': 'Northeast', 'updated_at': '2026-03-25T04:04:37.116910'}, {'city_id': 7, 'city': 'San Antonio', 'state': 'TX', 'region': 'South', 'updated_at': '2026-03-25T04:04:37.116920'}, {'city_id': 8, 'city': 'San Diego', 'state': 'CA', 'region': 'West', 'updated_at': '2026-03-25T04:04:37.116925'}, {'city_id': 9, 'city': 'Dallas', 'state': 'TX', 'region': 'South', 'updated_at': '2026-03-25T04:04:37.116929'}, {'city_id': 10, 'city': 'San Jose', 'state': 'CA', 'region': 'West', 'updated_at': '2026-03-25T04:04:37.116933'}]
